@@ -48,8 +48,8 @@ export default {
     return {
       cards: [
         { title: 'Appointments', content: '11', icon: 'mdi-calendar' },
-        { title: 'Therapists', content: '21', icon: 'fas fa-user-md' },
-        { title: 'Patients', content: ' 3', icon: 'fas fa-hospital' },
+        { title: 'Therapists', content: '3', icon: 'mdi-stethoscope' },
+        { title: 'Patients', content: ' 21', icon: ' mdi-account-multiple' },
       ],
 
       items: [

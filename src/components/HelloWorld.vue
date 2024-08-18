@@ -12,8 +12,8 @@
       <v-list class="mt-15" nav>
         <v-list-item prepend-icon="mdi-view-dashboard" title="Dashbord" value="Dashbord" to="/dashboard"></v-list-item>
         <v-list-item prepend-icon="mdi-calendar" title="Appointments" value="Articles" router to="/appointment"></v-list-item>
-        <v-list-item prepend-icon="mdi-comment-multiple" title="Treatment" value="Comments" to="/treatment"></v-list-item>
-        <v-list-item prepend-icon="mdi-file-document-outline" title="Reports" value="Comments" to="/reports"></v-list-item>
+        <v-list-item prepend-icon="mdi-comment-multiple" title="Treatment" value="Treatment" to="/treatment"></v-list-item>
+        <v-list-item prepend-icon="mdi-file-document-outline" title="Reports" value="Reports" to="/reports"></v-list-item>
         <v-list-item prepend-icon="mdi-cog" title="Settings" value="Settings" to="/settings"></v-list-item>
       </v-list>
     </v-navigation-drawer>
