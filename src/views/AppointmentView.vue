@@ -1,4 +1,15 @@
 <template>
+    <v-card>
+      <v-card-text>
+        <v-button>
+        <v-icon >mdi-add</v-icon>
+
+      </v-button>  
+      </v-card-text>
+      
+    </v-card>
+      
+
     <div>
       <v-sheet
         class="d-flex"

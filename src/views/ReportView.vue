@@ -1,5 +1,7 @@
 <template>
-    <div>
-        <h4>Reports view</h4>
+  <div>
+    <h1>
+      settings view
+    </h1>
     </div>
 </template>
